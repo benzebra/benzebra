@@ -1,4 +1,4 @@
-Hi there, I'm Filippo
+#Hi there, I'm Filippo
 
 I'm 22 years old italian student. I'll graduate in 2023 in Computer Science and Management.
 
