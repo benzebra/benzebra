@@ -8,8 +8,7 @@ I'm 23 years old italian student. I'm pursuing a Master Degree in Computer Scien
 
 ## Stats
 <p>
+
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=benzebra&show_icons=true&theme=merko)
-</p>
-<p>
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=benzebra)
+
 </p>
