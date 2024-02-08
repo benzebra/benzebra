@@ -7,5 +7,9 @@ I'm 23 years old italian student. I'm pursuing a Master Degree in Computer Scien
 [![x](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/filippobrajucha)
 
 ## Stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=benzebra&show_icons=true&theme=merko)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=benzebra)
+<p>
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=benzebra&show_icons=true&theme=merko)
+</p>
+<p>
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=benzebra)
+</p>
