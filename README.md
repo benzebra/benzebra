@@ -1,6 +1,6 @@
 ### Hi there, I'm Filippo ###
 
-I'm 23 years old italian student. I'm pursuing a Master Degree in Computer Science and Management at Università di Bologna, I obtained the Bachelor Degree in the same subject in March 2023.
+I'm 24 years old italian student. I'm pursuing a Master Degree in Computer Science and Management at Università di Bologna, I obtained the Bachelor Degree in the same subject in March 2023. Currently I'm working as Data Analyst Intern at Ferrari SpA (feb 25 - now).
 
 ## 🔗 Links 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/filippo-brajucha-aa7787200/)
